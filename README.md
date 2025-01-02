@@ -1,4 +1,3 @@
-<span style="color:orange">
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pohuliaidanylo) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/geelona) 
 
@@ -11,5 +10,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PohuliaiDanylo&icon=0&color=7)](https://visitcount.itsvg.in)
-
-</span>
